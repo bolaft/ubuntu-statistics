@@ -1,0 +1,40 @@
+Forums/Courriels/IRC:
+- fréquence d'apparition des messages (par jour/semaine/mois)
+- répartition du volume par jour de la semaine et par heure de la journée (e.g. "30% des messages sont postés le samedi")
+- nombre d'intervenants par jour/semaine/mois
+- fréquence d'apparition des nouveaux intervenants (par jour/semaine/mois)
+- répartition des messages par intervenants (e.g. "10% des plus plus actifs postent 90% des messages")
+- taille moyenne et médiane des messages
+- répartition des messages par taille
+- nombre de liens externes
+- nombre de liens vers la documentation
+- nombre de liens vers les forums
+- nombre de références aux autres modalités
+- nombre et répartition des références directes à d'autres intervenants dans les messages
+- plage de temps pour les conversations
+
+Forums/Courriels:
+- nombre de nouveaux threads par jour/semaine/mois
+- taille moyenne et médiane des threads
+- répartition des threads par taille
+- proportion de lignes quotés dans les messages
+- proportion de threads sans réponse (un seul message)
+- répartition des threads créés par intervenant
+- répartition des réactions à des threads par intervenant
+- répartition du nombre de threads participé par intervenant
+
+Forums:
+- proportion de threads fermés
+- répartition des threads par forum
+- répartition des messages par forum
+- fréquence d'apparition des images dans les messages
+- fréquence d'utilisation de différentes balises HTML dans les messages
+
+IRC:
+- temps de connexion moyen et médian des intervenants
+- répartition du temps de connexion par intervenant
+
+Documentation:
+- % diff par jour/semaine/mois
+- fréquence de modification (max 1/jour...)
+- nature des diffs : % ajout, % modif, % retrait
